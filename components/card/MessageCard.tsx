@@ -1,4 +1,5 @@
 import { ethers } from "ethers";
+import { MissingStaticPage } from "next/dist/shared/lib/utils";
 import { Message } from "../../hooks/useMessengerContract";
 import styles from "./MessageCard.module.css";
 
